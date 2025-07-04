@@ -30,8 +30,8 @@ This project is a Streamlit web application that helps users analyze the healthi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ShivaGujja/food-inggredient-analysis.git
-cd food-inggredient-analysis
+git clone https://github.com/shiva9198/Food_Ingredient_Analysis.git
+cd Food_Ingredient_Analysis
 ```
 
 ### 2. Install dependencies

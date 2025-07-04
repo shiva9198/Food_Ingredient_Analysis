@@ -107,7 +107,7 @@ streamlit run app.py
 ## 🧑‍💻 Author
 
 **Shiva Gujja**  
-[GitHub: ShivaGujja](https://github.com/ShivaGujja)
+[GitHub: Shiva Santosh](https://github.com/shiva9198)
 
 ---
 
